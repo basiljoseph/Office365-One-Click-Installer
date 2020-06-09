@@ -1,0 +1,1 @@
+setup.exe /download .\config\O365-Download-Configuration.xml

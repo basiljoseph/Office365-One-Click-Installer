@@ -1,0 +1,1 @@
+setup.exe /configure .\config\O365-Uninstall-Configuration.xml
